@@ -1,0 +1,15 @@
+{
+  "name": "macaw",
+  "version": "1.0.0",
+  "description": "Macaw is a text to speech reader",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Guri Zejnullahi",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.1"
+  }
+}
